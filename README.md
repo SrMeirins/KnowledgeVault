@@ -7,4 +7,4 @@ Welcome to my knowledge stash! I set this up so I can have info on hand when I'm
 - **Reverse Shells**
   - [ICMP Check](/ReverseShells/ICMPCheck.md/)
 - **SMB (445)**
-  - [Enumeración](/SMB (445)/Enumeración.md )
+  - [Enumeración](/SMB(445)/Enumeración.md )
