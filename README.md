@@ -7,7 +7,7 @@ Welcome to my knowledge stash! I set this up so I can have info on hand when I'm
 - **Reverse Shells**
   - [ICMP Check](/ReverseShells/ICMPCheck.md/)
 - **Kerberos (88)**
-  - [Kerberoasting Attack](/KRB(88)/Kerberoasting.md/)
+  - [Kerberoasting Attack](/KBR(88)/Kerberoasting.md/)
 - **RPC (135)**
   - [Enumeración](/RPC(135)/Enumeration.md/)
 - **SMB (445)**
