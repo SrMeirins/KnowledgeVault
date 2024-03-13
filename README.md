@@ -6,6 +6,8 @@ Welcome to my knowledge stash! I set this up so I can have info on hand when I'm
   - [Nmap](/Enumeracion/nmap.md/)
 - **Reverse Shells**
   - [ICMP Check](/ReverseShells/ICMPCheck.md/)
+- **Software**
+  - [Jenkins](/Software/Jenkins.md/)
 - **Kerberos (88)**
   - [Kerberoasting Attack](/KBR(88)/Kerberoasting.md/)
 - **RPC (135)**
