@@ -16,3 +16,6 @@ Welcome to my knowledge stash! I set this up so I can have info on hand when I'm
   - [Enumeración](/SMB(445)/Enumeración.md/)
   - [SYSVOL](/SMB(445)/SYSVOL.md/)
   - [psexec](/SMB(445)/psexec.md/)
+- **CMS**
+  - **Wordpress**
+    - [Enumeración](/CMS/Wordpress/Enumeration.md/)
