@@ -19,5 +19,7 @@ Welcome to my knowledge stash! I set this up so I can have info on hand when I'm
 - **CMS**
   - **Wordpress**
     - [Enumeración](/CMS/Wordpress/Enumeration.md/)
+  - **Drupal**
+    - [Command Execution](/CMS/Drupal/Command_Execution.md)
 - **BruteForce**
   - [OpenSSL Encrypted Files](/BruteForce/OpenSSL.md/)
