@@ -17,3 +17,12 @@ Tarda muchisimo, una barbaridad. Hay que limitar los puertos todo lo posible, ya
 ```zsh
 nmap --top-ports 100 --open -sU -v -T5 -n {IP} -oG allPortsUDP
 ```
+
+## XML to HTML Output
+Si tenemos muchos puertos y queremos reportarlos de manera mas limpia en forma de archivo HTML, tenemos que exportarlo a XML y luego transformarlo con la herramienta xsltproc.
+
+```zsh
+-oX targetedXML # En el comando de NMAP
+xsltproc targetedXML > targetedHTML
+php -S 0.0.0.0:80 # Para montarnos un servidor Web local
+```
