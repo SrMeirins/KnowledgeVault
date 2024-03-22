@@ -18,6 +18,7 @@ Welcome to my knowledge stash! I set this up so I can have info on hand when I'm
   - [Enumeración](/RPC(135)/Enumeration.md/)
 - **SMB (445)**
   - [Enumeración](/SMB(445)/Enumeración.md/)
+  - [Montura CIFS](/SMB(445)/montura.md/)
   - [SYSVOL](/SMB(445)/SYSVOL.md/)
   - [psexec](/SMB(445)/psexec.md/)
 - **CMS**
