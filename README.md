@@ -4,6 +4,8 @@ Welcome to my knowledge stash! I set this up so I can have info on hand when I'm
 
 - **Port Scanning**
   - [Nmap](/Enumeracion/nmap.md/)
+- **Fuzzing Web**
+  - [Gobuster](/FuzzingWeb/gobuster.md)
 - **Reverse Shells**
   - [ICMP Check](/ReverseShells/ICMPCheck.md/)
   - [PHP](/ReverseShells/php.md/)
