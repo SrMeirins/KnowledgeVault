@@ -12,6 +12,8 @@ Welcome to my knowledge stash! I set this up so I can have info on hand when I'm
 - **Active Directory**
   - **Collectors**
     - [BloodHound Python](/ActiveDirectory/bloodhound-python.md/)
+  - **BloodHound**
+    - [DCSync Attack](/ActiveDirectory/dcsync.md/)
 - **Software**
   - [Jenkins](/Software/Jenkins.md/)
   - [H2 Database](/Software/H2Database.md/)
