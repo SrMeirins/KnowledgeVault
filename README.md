@@ -36,3 +36,5 @@ Welcome to my knowledge stash! I set this up so I can have info on hand when I'm
     - [Command Execution](/CMS/Drupal/Command_Execution.md)
 - **BruteForce**
   - [OpenSSL Encrypted Files](/BruteForce/OpenSSL.md/)
+- **Transferencias de archivos**
+  - [De Linux a Windows](/Transfers/LinuxWindows.md/)
